@@ -1,4 +1,4 @@
-package Modelo;
+package ModeloU;
 
 public class Prestamo {
 

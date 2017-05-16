@@ -1,7 +1,7 @@
-package Controlador;
+package ControladorU;
 
-import DAO.DaoUsuario;
-import Modelo.Solicitante;
+import DAOU.DaoUsuario;
+import ModeloU.Solicitante;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.URISyntaxException;

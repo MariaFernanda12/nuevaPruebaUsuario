@@ -1,9 +1,9 @@
-package DAO;
+package DAOU;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import Modelo.Prestamo;
+import ModeloU.Prestamo;
 import Util.Conexion;
 import java.net.URISyntaxException;
 import java.sql.ResultSet;

@@ -1,12 +1,12 @@
-package Controlador;
+package ControladorU;
 
-import DAO.DaoElementos;
+import DAOU.DaoElementos;
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import Modelo.Elemento;
+import ModeloU.Elemento;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.logging.Level;

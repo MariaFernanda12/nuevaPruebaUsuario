@@ -1,8 +1,8 @@
-package Controlador;
+package ControladorU;
 
-import DAO.DaoPrestamo;
-import Modelo.Prestamo;
-import Modelo.Solicitante;
+import DAOU.DaoPrestamo;
+import ModeloU.Prestamo;
+import ModeloU.Solicitante;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.ArrayList;

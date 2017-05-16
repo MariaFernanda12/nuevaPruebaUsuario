@@ -1,13 +1,13 @@
-package DAO;
+package DAOU;
 
-import Modelo.Prestamo;
+import ModeloU.Prestamo;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import Modelo.Solicitante;
+import ModeloU.Solicitante;
 import Util.Conexion;
 import java.net.URISyntaxException;
 import java.util.logging.Level;
