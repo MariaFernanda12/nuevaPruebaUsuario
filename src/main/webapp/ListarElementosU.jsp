@@ -1,7 +1,7 @@
 
 <%@page import="java.util.ArrayList"%>
-<%@page import="Modelo.Elemento"%>
-<%@page import="Controlador.CrearListar"%>
+<%@page import="ModeloU.Elemento"%>
+<%@page import="ControladorU.CrearListar"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
